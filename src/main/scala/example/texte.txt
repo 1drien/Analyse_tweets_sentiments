@@ -1,0 +1,4 @@
+Spark est un moteur de traitement distribué rapide.
+Il est conçu pour des calculs massifs de données.
+Avec Spark, on peut faire du traitement de données rapide.
+Les RDDs permettent de traiter des données de manière distribuée.
