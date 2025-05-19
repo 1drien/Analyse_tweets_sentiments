@@ -1,4 +1,4 @@
-"""# 🐦🔍 Analyse de Sentiments de Tweets avec Scala et Apache Spark
+# 🐦🔍 Analyse de Sentiments de Tweets avec Scala et Apache Spark
 
 Ce projet implémente un système d’analyse de sentiments basé sur **Scala** et **Apache Spark**, utilisant l’**API de X (Twitter)** pour collecter des tweets en temps réel ou par mot-clé, les nettoyer, les transformer et appliquer des techniques de NLP afin de déterminer leur **polarité émotionnelle** (positive, négative, neutre).
 
@@ -32,6 +32,6 @@ API X (Twitter) ─▶ Ingestion Scala ─▶ Spark RDD/DataFrame ─▶ NLP & S
 ## ⚙️ Installation
 
 ```bash
-git clone 
+git clone https://github.com/1drien/Analyse_tweets_sentiments.git
 cd sentiment-analysis-scala-spark
 sbt compile
